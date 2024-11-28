@@ -2,8 +2,8 @@ Project Overview
 The College Placed Prediction project uses a machine learning model to predict whether a student is likely to get placed based on several features like age, gender, stream, CGPA, internship experience, hostel stay, and history of backlogs. The project utilizes Python and several machine learning models, such as Logistic Regression, Random Forest Classifier, and Support Vector Classifier (SVC), to analyze and predict placement outcomes.
 
 **Dataset**
+***
 The dataset contains information about students with the following attributes:
-
 -Age: Age of the student.
 -Gender: Gender of the student (encoded as Male = 1, Female = 0).
 -Stream: Field of study (e.g., Computer, Electronics, Mechanical, etc., encoded as numerical values).
@@ -14,6 +14,7 @@ The dataset contains information about students with the following attributes:
 -PlacedOrNot: The target variable indicating whether the student got placed (1 for placed, 0 for not placed).
 
 **Objectives**
+***
 The primary objective is to build and compare different machine learning models to predict whether a student gets placed. The models used include:
 
 -Logistic Regression
